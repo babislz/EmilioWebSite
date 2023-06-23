@@ -1,4 +1,54 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
     background-color: #030303;
     color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 18%;
+    margin-right: 14cm;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0% 16px;
+    font-size: 18px;
+}
+
+.escola-imagem{
+    width: 25%;
+    display: inline-block;
+    margin: 3% 200px;
+}
+
+.escola{
+    background-image: linear-gradient(#B2B2B2,#313131);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.escola-intervalo{
+    width: 21%;
+    display: inline-block;
+    margin-right: 2%;
+}
+
+.escola-div-conteudo{
+width: 40%;
+margin-inline-start: 2cm;
+font-size: 18px;
+}
+
+.escola-titulo{
+    padding: 35px 0;
 }
