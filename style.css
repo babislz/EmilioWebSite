@@ -79,5 +79,24 @@ font-size: 19px;
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 22% 22% 22% 22%;
+justify-content: center;
+padding: 15px 0;
 }
+
+.rodape{
+    background-color: black;
+    text-align: center;
+   
+}
+
+.imagem-rodape{
+   height: 40px;
+   padding: 12px 0;
+  width: 4cm;
+}
+    
+
+    
+
+
