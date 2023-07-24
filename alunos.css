@@ -48,11 +48,13 @@
     .estudante-coisas-div{
         text-align: center;
         align-items: center;
+        color: white;
     }
     
     .estudante-titulo{
         text-align: center;
         padding: 50px;
+       font-size: 26px;
     }
     
 
@@ -69,11 +71,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0px;
+    padding: 45px 0px;
+ 
 }
 
 .estudante-nome{
     padding: 0px 210px;
+    color: white;
 }
 
 .estudante-div{
