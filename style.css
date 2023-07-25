@@ -51,7 +51,7 @@
 .escola-div-conteudo{
 width: 50%;
 margin-inline-start: 2cm;
-font-size: 19px;
+font-size: 18px;
 }
 
 .escola-titulo{
@@ -104,7 +104,10 @@ color: white;
   width: 4cm;
 }
     
-
-    
-
+.escola-div-conteudo-emilio{
+    width: 50%;
+    margin-inline-start: 2cm;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
 

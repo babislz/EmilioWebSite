@@ -48,7 +48,8 @@
     .estudante-coisas-div{
         text-align: center;
         align-items: center;
-        color: white;
+        color: black;
+        
     }
     
     .estudante-titulo{
@@ -65,6 +66,7 @@
 .estudante-todos{
     display: grid;
     grid-template-rows: 25% 25% 25% 25% 25%;
+    background-image: linear-gradient(#B2B2B2,#313131);
 }
 
 .estudante-descrição{
@@ -83,6 +85,7 @@
 .estudante-div{
     display: flex;
     padding: 24px 0;
+    background-image: linear-gradient(#B2B2B2,#787878);
 }
 
 .rodape{
